@@ -4,7 +4,7 @@
 
 > **Description**: A webpage where you can search, filter, sort, and see more details of the Pokemon character cards. To start the project, please run for `npm run dev`.
 
-> **Project preview**:
+> **Project preview**: 
 
 > <img width="1470" alt="image" src="https://github.com/user-attachments/assets/d25a5499-4d11-425f-9d94-bf7ac8dce3cd">
 
